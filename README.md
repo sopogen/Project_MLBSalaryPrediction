@@ -1,5 +1,8 @@
 # Project_MLBSalaryPrediction
-#### :Predict the salary of MLB athletes with various methods. (Final project for 'HR Bigdata Analysis', BIZ3201)
+<p align="center">
+<img src="https://i.imgur.com/xY9IqNX.jpg"></img>
+<br />Predict the salary of MLB batters with various methods, and find out the factors of future salary. 
+<br />(Final project for 'HR Bigdata Analysis', BIZ3201)
 
 ## 1. Data Crawling
 - Collecting player's career 
